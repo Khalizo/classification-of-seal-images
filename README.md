@@ -21,15 +21,17 @@ I discovered that the data was heavily imbalanced after I visualised the frequen
 
 ![class_dist](figures/class_dist.png)
 
-### PCA and t-SNE visualisations
+### PCA and t-SNE visualisations
 
 Given the high-dimensional nature of the dataset (964 features), it made sense to implement dimensionality reduction in order to visually explore the whole dataset. The techniques implemented in this study were PCA (Principal Component Analysis) and t-SNE (t-Distributed Stochastic Neighbouring Entities).
 
 #### PCA
+
 ![pca](figures/pca.png)
 
 #### t-SNE
-¡[tsne](figures/tsne.png)
+
+![tsne](figures/tsne.png)
 
 ## Results
 
